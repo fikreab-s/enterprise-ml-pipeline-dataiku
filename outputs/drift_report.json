@@ -1,0 +1,74 @@
+[
+  {
+    "week": 1,
+    "psi": 0.0791,
+    "status": "OK",
+    "mean_shift": 0.5
+  },
+  {
+    "week": 2,
+    "psi": 0.046,
+    "status": "OK",
+    "mean_shift": 1.0
+  },
+  {
+    "week": 3,
+    "psi": 0.1,
+    "status": "OK",
+    "mean_shift": 1.5
+  },
+  {
+    "week": 4,
+    "psi": 0.1248,
+    "status": "MONITOR",
+    "mean_shift": 2.0
+  },
+  {
+    "week": 5,
+    "psi": 0.0913,
+    "status": "OK",
+    "mean_shift": 2.5
+  },
+  {
+    "week": 6,
+    "psi": 0.0945,
+    "status": "OK",
+    "mean_shift": 3.0
+  },
+  {
+    "week": 7,
+    "psi": 0.1657,
+    "status": "MONITOR",
+    "mean_shift": 3.5
+  },
+  {
+    "week": 8,
+    "psi": 0.2365,
+    "status": "MONITOR",
+    "mean_shift": 4.0
+  },
+  {
+    "week": 9,
+    "psi": 0.2994,
+    "status": "RETRAIN",
+    "mean_shift": 4.5
+  },
+  {
+    "week": 10,
+    "psi": 0.2909,
+    "status": "RETRAIN",
+    "mean_shift": 5.0
+  },
+  {
+    "week": 11,
+    "psi": 0.3307,
+    "status": "RETRAIN",
+    "mean_shift": 5.5
+  },
+  {
+    "week": 12,
+    "psi": 0.6417,
+    "status": "RETRAIN",
+    "mean_shift": 6.0
+  }
+]
