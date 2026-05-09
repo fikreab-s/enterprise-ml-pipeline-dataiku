@@ -1,6 +1,9 @@
-# 🏭 Enterprise ML Pipeline (Dataiku + MLflow)
+# Enterprise ML Pipeline (Dataiku + MLflow)
 
-> End-to-end MLOps pipeline for enterprise model lifecycle: training, evaluation, versioning, deployment, and monitoring with Dataiku and MLflow.
+> Full MLOps lifecycle: data versioning, model training, registry, serving, and PSI-based drift detection for production analytics models.
+>
+> **Context:** Documents the MLOps patterns used for maintaining production models in pharma commercial analytics — including automated drift detection that triggers retraining before model degradation affects business decisions.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
