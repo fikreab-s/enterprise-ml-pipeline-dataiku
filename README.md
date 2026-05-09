@@ -56,3 +56,9 @@ $$\Lambda_n = \prod_{i=1}^{n} \frac{p(x_i | H_1)}{p(x_i | H_0)}, \quad \text{Sto
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![mlops dashboard](viz/mlops_dashboard.png)
+
+---
